@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I'm Sofia Macedo
 
-<!--
-**macedosofia/macedosofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems student  
+🤖 Interested in Robotics, Automation, and Autonomous Systems  
+🛠️ Experience with ROS 2, Python, C++, Arduino, and Linux
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an Information Systems student and a member of a robotics research group.  
+My work focuses on developing an autonomous robotic arm, combining software, electronics, and robotics concepts.
+
+I enjoy learning how different technologies interact in robotic systems, from control and programming to simulation and testing.
+
+---
+
+## 🦾 Projects
+Some of the topics and projects I have been working on:
+
+- Autonomous robotic arm development  
+- Automation systems with integrated hardware and software  
+- Parallel gripper simulation in ROS 2  
+- Robot visualization and testing using RViz  
+
+---
+
+## 🛠️ Technologies & Tools
+- ROS 2  
+- Python  
+- C++  
+- Arduino  
+- Git & GitHub  
+- Linux (Ubuntu)
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/sofia-macedo-83583b309/
+- Email: sofiamacedo55@gmail.com  
