@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sofia Macedo
+##  Hi, I'm Sofia Macedo
 
 🎓 Information Systems student  
 🤖 Interested in Robotics, Automation, and Autonomous Systems  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am an Information Systems student and a member of a robotics research group.  
 My work focuses on developing an autonomous robotic arm, combining software, electronics, and robotics concepts.
 
@@ -14,7 +14,7 @@ I enjoy learning how different technologies interact in robotic systems, from co
 
 ---
 
-## 🦾 Projects
+##  Projects
 Some of the topics and projects I have been working on:
 
 - Autonomous robotic arm development  
@@ -24,7 +24,7 @@ Some of the topics and projects I have been working on:
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 - ROS 2  
 - Python  
 - C++  
@@ -34,6 +34,6 @@ Some of the topics and projects I have been working on:
 
 ---
 
-## 📫 Contact
+##  Contact
 - LinkedIn: https://www.linkedin.com/in/sofia-macedo-83583b309/
 - Email: sofiamacedo55@gmail.com  
